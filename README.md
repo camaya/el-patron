@@ -9,6 +9,10 @@ It also supports Spanish so it replaces the words "Eliminar" and "Borrar" with "
 * Firefox: [Mozilla Addons](https://addons.mozilla.org/en-US/firefox/addon/el-patron-plomo/)
 * Chrome: [Chrome Extensions Gallery](https://chrome.google.com/webstore/detail/el-patr%C3%B3n/kegiachhjpmlfmnbelcbdgnekfibffjl?hl=en)
 
+# Acknowledgments
+
+Thanks to [Tomás Soler](https://github.com/tjsoler) for helping me out with the logo.
+
 # Attributions
 
 * This extension is derived from the [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension by Steven Frank.
