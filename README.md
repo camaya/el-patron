@@ -6,8 +6,8 @@ It also supports Spanish so it replaces the words "Eliminar" and "Borrar" with "
 
 # Installation
 
-* Firefox: (Mozilla Addons)[https://addons.mozilla.org/en-US/firefox/addon/el-patron-plomo/]
-* Chrome: (Chrome Extensions Gallery)[https://chrome.google.com/webstore/detail/el-patr%C3%B3n/kegiachhjpmlfmnbelcbdgnekfibffjl?hl=en]
+* Firefox: [Mozilla Addons](https://addons.mozilla.org/en-US/firefox/addon/el-patron-plomo/)
+* Chrome: [Chrome Extensions Gallery](https://chrome.google.com/webstore/detail/el-patr%C3%B3n/kegiachhjpmlfmnbelcbdgnekfibffjl?hl=en)
 
 # Attributions
 
